@@ -5,6 +5,11 @@
   "hexo": {
     "version": "3.2.2"
   },
+  "scripts": {
+    "clean": "rm -fr db.json && hexo clean",
+    "dev": "hexo g && hexo s --debug",
+    "deploy": "hexo g && hexo deploy"
+  },
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-deployer-git": "^0.2.0",
