@@ -5,28 +5,6 @@ tags:
 banner: /images/TOP-10-Horror-Films-to-Watch-on-the-Halloween-Weekend/banner.jpeg
 ---
 
-{% raw %}
-<style>
-    .s_quote_left{
-        width: 35%!important;
-        display: inline-block;
-        padding-right: 12px!important;
-        float: left;
-    }
-    .s_quote_small{
-        width: 20%!important;
-        display: inline-block;
-        padding-right: 12px!important;
-        float: left;
-    }
-</style>
-{% endraw %}
-
-{% blockquote CastBox.FM http://castbox.fm %}
-A start-up company/app with business focus in podcasts and radios. Comments and feedbacks are welcomed.
-2 days ago
-{% endblockquote %}
-
 Halloween weekend is always the best time to watch some horror films with your friends and family. Close your curtains, turn off your lights, volume up your speakers, and make this one-in-a-year weekend unforgettable. CastBox has put together a list of TOP 10 horror films, from all over the world, to help you make this weekend even more special and remarkable.
 
 {% pullquote s_quote_left %}
@@ -211,3 +189,20 @@ Free Podcast Radio App - Education/News/Music/Comedy/Kids/radio/podcast
 [_CastBox_](http://castbox.fm/)_ is the main product of Guru Inc., a smart startup team founded by xGoogler with App gene. It has been featured for 115 Countries by Google Editor within 1 month. You can stream&download all of the above podcasts using_[_CastBox_](http://castbox.fm/)_, the leading podcast app offering 340,000+ high quality podcasts for free._
 
 _Follow us_ _ @ our _[_Facebook_](https://www.facebook.com/castbox.fm/)_, _[_Twitter_](https://twitter.com/CastBox_FM)_, _[_LinkedIn_](https://www.linkedin.com/company/castbox.fm)_, and _[_Instagram_](https://www.instagram.com/castbox.fm/)_ accounts._
+
+{% raw %}
+<style>
+    .s_quote_left{
+        width: 35%!important;
+        display: inline-block;
+        padding-right: 12px!important;
+        float: left;
+    }
+    .s_quote_small{
+        width: 20%!important;
+        display: inline-block;
+        padding-right: 12px!important;
+        float: left;
+    }
+</style>
+{% endraw %}
