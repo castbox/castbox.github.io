@@ -57,4 +57,4 @@ _“Regarding the big picture in the future: we believe that, besides Pandora an
 
 The whole team at CastBox want to thank everyone again for attending this great event, online and on site. Thank you again for all the supports and recognitions. We’ll make ourselves better and better everyday, to bring our users the best user experience! Track our progress and updates by following usonour [_Facebook_](https://www.facebook.com/castbox.fm/), [ _Twitter_](https://twitter.com/CastBox_FM), [ _LinkedIn_](https://www.linkedin.com/company/castbox.fm), and[ _Instagram_](https://www.instagram.com/castbox.fm/) accounts!
 
-![QR Code for CastBox Download](https://cdn-images-1.medium.com/max/1600/1*3EdlgkFGIvQ4iQqH-K8u9Q.png)
+[![QR Code for CastBox Download](https://cdn-images-1.medium.com/max/1600/1*3EdlgkFGIvQ4iQqH-K8u9Q.png)](http://castbox.fm/app/castbox)

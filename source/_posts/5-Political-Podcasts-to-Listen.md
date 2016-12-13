@@ -36,7 +36,7 @@ _“Voted “Favorite Political Podcast” by iTunes Listeners. Stephen Colbert 
 
 _“Download and watch full episodes of Real Time with Bill Maher including his New Rules and Overtime segments with his guest panelists. ”_
 
-![Download our app @ CastBox’s website (we support both IOS and Android)](https://cdn-images-1.medium.com/max/800/1*3EdlgkFGIvQ4iQqH-K8u9Q.png)
+[![Download our app @ CastBox’s website (we support both IOS and Android)](https://cdn-images-1.medium.com/max/800/1*3EdlgkFGIvQ4iQqH-K8u9Q.png)](http://castbox.fm/app/castbox)
 
 ## _Wanna have your own podcast? You can upload your podcast/audio files and start your channel for free on CastBox.FM!_
 

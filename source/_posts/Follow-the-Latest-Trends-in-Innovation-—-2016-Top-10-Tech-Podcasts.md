@@ -19,7 +19,7 @@ TEDTalks Technology hosts the world’s leading inventors, researchers, and busi
 
 Leo Laporte leads a roundtable discussion of the latest technological trends. Subscribe for knowledgeable and thought provoking conversation including product reviews, company news, and industry innovations.
 
-[3. ! World’s Funniest Ringtones for iPhone & iPad by Hahaas Comedy Ringtones](http://castbox.fm/app/castbox/feed/547207564)
+[3. World’s Funniest Ringtones for iPhone & iPad by Hahaas Comedy Ringtones](http://castbox.fm/app/castbox/feed/547207564)
 
 {% img leftImg https://cdn-images-1.medium.com/max/800/1*M_G68vfj9-lrJM4fLhO-qQ.jpeg 250  “The Adam Carolla Show” %}
 
@@ -69,7 +69,7 @@ Apple Keynotes is an up-to-date source for all of Apple’s most important annou
 
 _Wanna have your own podcast? You can upload your podcast/audio files and start your channel for free on CastBox.FM!_
 
-![](https://cdn-images-1.medium.com/max/800/1*3EdlgkFGIvQ4iQqH-K8u9Q.png)
+[![](https://cdn-images-1.medium.com/max/1600/1*3EdlgkFGIvQ4iQqH-K8u9Q.png)](http://castbox.fm/app/castbox)
 
 [_CastBox_ ](http://castbox.fm/)_ is the main product of Guru Inc., a smart startup team founded by xGoogler with App gene. It has been featured for 115 Countries by Google Editor within 1 month. You can stream&download all of the above podcasts using_[_CastBox_ ](http://castbox.fm/)_, the leading podcast app offering 340,000+ high quality podcasts for free._
 
