@@ -67,7 +67,9 @@ Thanks for reading,
 
 Rian Smith
 
--
+<em>(Rian can be reached at rian_smith@live.com if you have any question or concern for him! For more information about Rian’s podcast, check out at thedeepdivereport.net)</em>
+
+_
 
 > <span class="markup--strong markup--blockquote-strong" style="font-weight: 700;">CastBox is currently looking for writers who are willing to share their experiences related to the podcasting industry! The content of articles can vary from recommendations of audio softwares to strategies of how to successfully create a podcast! You could also give out a list of your favorite podcasts and explain why people should check them out! You can also use this as a way to promote your own podcast channel!</span>
 
