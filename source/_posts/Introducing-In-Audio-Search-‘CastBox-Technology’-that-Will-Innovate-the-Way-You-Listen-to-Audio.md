@@ -30,9 +30,13 @@ What this means to audio listeners is you’re exposed to a poor discovery exper
 
 This enables listeners to find the exact minute and second within an episode that they want to listen to again by simply typing in a keyword, saving you time.
 
-![](https://cdn-images-1.medium.com/max/600/0*NpaDsQWwXwj2Np9q.)
+<div style="display:inline-block;width:48%">
+  <img src="https://cdn-images-1.medium.com/max/600/0*NpaDsQWwXwj2Np9q."/>
+</div>
 
-![](https://cdn-images-1.medium.com/max/600/1*Me3jIPNBWkLTYoIHSOmN4A.jpeg)
+<div style="display:inline-block;width:48%">
+  <img src="https://cdn-images-1.medium.com/max/600/1*Me3jIPNBWkLTYoIHSOmN4A.jpeg"/>
+</div>
 
 <span class="markup--strong markup--p-strong" style="font-weight: 700;">Advancements in Tech, Poignant for the Audio Industry</span>
 
