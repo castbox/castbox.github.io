@@ -48,7 +48,7 @@ Despite more podcasts uploaded daily, and more spoken audio content readily avai
 
 However for everyone else, and particularly those that might even ask themselves “what’s podcasting” or has Googled “podcast meaning,” a podcatcher and spoken audio platform like CastBox offers a deeper dive into topics and enriches your understanding. CastBox strives to surface only the relevant content using machine learning, disregarding whom long time podcast listeners may consider to be the best podcasters or best podcasts for Android and Apple.
 
-This is where [In-Audio Search ](http://castbox.fm/)comes in.
+This is where [In-Audio Search](http://castbox.fm/) comes in.
 
 Although In-Audio Search is just the first step, we’re solving the problem for beginner and veteran listeners alike of information discovery or even podcast discovery. Now with In-Audio Search, this is achieved in a way that recommends only the most relevant audio content pertaining to what you’re looking for, making it as simple as “Googling” it.
 
